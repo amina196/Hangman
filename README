@@ -1,2 +1,15 @@
 This repository contains the code for a very simplistic hangman game in Python. No UI. 
 Aim : get familiar with the Python syntax and data structures. 
+
+How to play ?! 
+- clone the repo from Git 
+- cd into the folder imported 
+- run "python hangman.py" 
+
+You should be good to go. 
+
+Feel free to augment the list of possible words, only a few are there.
+
+Have fun ! 
+
+Amina
